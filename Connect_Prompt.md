@@ -137,7 +137,7 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 
 ## Reflect on the past:
 
-### What results did you deliver, and how did you do it?
+### What results did you deliver, and how did you do it? (MAX 6000 CHARACTERS)
 
 #### Major Accomplishments (5-10 total - select top 3-5 for final submission)
 
@@ -163,11 +163,15 @@ For each (under 900 words):
 **How We Interact:** Respect, Integrity, Accountability (1-2 examples each)
 **How We Lead:** Create Clarity, Generate Energy, Deliver Success (if applicable)
 
-### Reflect on setbacks -- what did you learn and grow?
+**CRITICAL:** Entire "What results did you deliver" section must be 6000 characters or less total.
+
+### Reflect on setbacks -- what did you learn and grow? (MAX 1000 CHARACTERS)
 
 **Setback #1:** What happened, learned, growth mindset applied, outcome
 **Setback #2 (if applicable):** Same structure
 **Perspectives Feedback:** Themes, actions taken, how shaped approach
+
+**CRITICAL:** Entire setbacks section must be 1000 characters or less total.
 
 ---
 
@@ -202,11 +206,13 @@ Complete trainings, prioritize security in work, MSProtect, report incidents
 #### [Add New Goal] (if applicable)
 - Title, Specific, Measurable, Action-oriented, Relevant, Time-bound
 
-### How actions/behaviors help reach goals?
+### How actions/behaviors help reach goals? (MAX 1000 CHARACTERS)
 **Curiosity & Adaptability:** [Growth/learning]
 **Collaboration & Inclusion:** [Better outcomes with others]
 **Bold & Purposeful Action:** [Move fast with purpose]
 **Culture Behaviors:** [From How We Work/Interact/Lead]
+
+**CRITICAL:** Entire "How actions/behaviors help reach goals" section must be 1000 characters or less total.
 
 ---
 
@@ -217,6 +223,10 @@ Complete trainings, prioritize security in work, MSProtect, report incidents
 4. 5-10 accomplishments (select 3-5 final)
 5. Under 900 words each
 6. Align to core priorities
+7. **CHARACTER LIMITS:**
+   - Results delivered section: 6000 characters max
+   - Setbacks section: 1000 characters max
+   - Actions/behaviors section: 1000 characters max
 
 ## Verification
 - ✓ Claims verified OR clarified
@@ -225,6 +235,7 @@ Complete trainings, prioritize security in work, MSProtect, report incidents
 - ✓ Culture behaviors asked
 - ✓ Training reviewed
 - ✓ Aligned to priorities
+- ✓ Character limits enforced for each section
 
 ---
 
