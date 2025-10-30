@@ -36,6 +36,12 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 - Only count meetings where I actively contributed (spoke 10%+ OR sent 3+ messages OR owned follow-ups)
 - Exclude passive attendance, training, routine meetings
 
+**Calendar Event Analysis:**
+- Count events I organized, owned, or drove outcomes for
+- Include customer meetings, strategic sessions, workshops I facilitated
+- Distinguish between attending vs. leading/organizing
+- Look for patterns: recurring customer touch-bases, project milestones, team leadership
+
 **Document Contributions:**
 - Only count files where I created content (not just viewed)
 - Distinguish: created vs. substantially contributed (>25%) vs. reviewed
@@ -58,17 +64,39 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 
 ## Data Sources (1 May - 31 Oct 2025)
 
-1. Outlook: Emails authored, threads where I drove outcomes, events organized
-2. Teams: Meetings >10% speaking time, chat messages, files created/shared, @mentions
-3. OneDrive/SharePoint: Documents created, substantially edited (>10%)
-4. SharePoint Sites: Sites created/edited, permissions managed, content authored
-5. Planner/Tasks: Tasks created/completed, projects led
-6. Viva Engage: Posts authored, community engagement
-7. Viva Learning: Training completed, learning paths
-8. ESXP: Training programs, certifications
-9. Email: Certification confirmations, professional development
-10. OneNote: Notebooks created/edited, sections authored, collaborative notes, meeting notes
-11. Copilot Notebooks: Notebooks created, prompts used, insights generated, solutions developed
+1. **Outlook Calendar & Email**: 
+   - Events organized, owned, or facilitated
+   - Customer meetings scheduled and led
+   - Strategic sessions, workshops, training events hosted
+   - Calendar patterns showing customer engagement frequency
+   - Emails authored, threads where I drove outcomes
+   
+2. **Teams**: Meetings >10% speaking time, chat messages, files created/shared, @mentions
+
+3. **OneDrive/SharePoint**: Documents created, substantially edited (>10%)
+
+4. **SharePoint Sites**: Sites created/edited, permissions managed, content authored
+
+5. **Planner/Tasks**: Tasks created/completed, projects led
+
+6. **Viva Engage**: Posts authored, community engagement
+
+7. **Viva Learning**: Training completed, learning paths
+
+8. **ESXP**: Training programs, certifications
+
+9. **Email**: Certification confirmations, professional development
+
+10. **OneNote**: Notebooks created/edited, sections authored, collaborative notes, meeting notes
+
+11. **Copilot Notebooks**: Notebooks created, prompts used, insights generated, solutions developed
+
+**Calendar Analysis Focus Areas:**
+- **Customer Engagement**: Frequency and types of customer meetings organized
+- **Leadership Activities**: Team meetings, one-on-ones, strategic sessions I facilitated
+- **Project Management**: Milestone meetings, checkpoint reviews, stakeholder alignments
+- **Knowledge Sharing**: Training sessions, workshops, demos I delivered
+- **Cross-Functional Collaboration**: Cross-team meetings I initiated or drove
 
 ---
 
@@ -76,15 +104,21 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 
 1. **Non-Microsoft Environment:** Work in customer/partner/government systems not in Graph? Describe impact.
 
-2. **Ambiguous Contributions:** List unclear meetings/documents/projects. Ask: role, contribution, outcome, location, collaborators, include as accomplishment?
+2. **Calendar-Based Leadership:** 
+   - Events you organized but limited Graph meeting data shows? (customer sites, partner locations, secure environments)
+   - Workshops, training sessions, or strategic meetings you facilitated?
+   - Regular customer check-ins or stakeholder meetings you drove?
+   - Project milestone meetings where you were the organizer/leader?
 
-3. **Limited Evidence:** Items with limited Graph data but work indicators. Ask: what delivered, where, outcomes, evidence location.
+3. **Ambiguous Contributions:** List unclear meetings/documents/projects. Ask: role, contribution, outcome, location, collaborators, include as accomplishment?
 
-4. **Security/Quality:** Contributions not fully documented? Details on nature and impact.
+4. **Limited Evidence:** Items with limited Graph data but work indicators. Ask: what delivered, where, outcomes, evidence location.
 
-5. **Training:** Review Viva Learning/ESXP. Ask: How applied? Impact? Additional training not captured?
+5. **Security/Quality:** Contributions not fully documented? Details on nature and impact.
 
-6. **Culture Behaviors (May Not Appear in Graph):**
+6. **Training:** Review Viva Learning/ESXP. Ask: How applied? Impact? Additional training not captured?
+
+7. **Culture Behaviors (May Not Appear in Graph):**
    - **D&I:** 1-2 examples seeking diverse perspectives, allyship, mentorship, impact?
    - **Respect:** 1-2 moments demonstrating respect, handling challenges professionally, result?
    - **Integrity:** 1-2 examples transparency, ethical decisions, honest communication, outcome?
@@ -93,9 +127,9 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
    - **Cross-Team Collaboration:** Examples working across teams, better outcomes?
    - **Leadership (if applicable):** Create Clarity, Generate Energy, Deliver Success examples?
 
-7. **Setbacks/Growth:** Challenges? Growth mindset applied? Measurable outcomes?
+8. **Setbacks/Growth:** Challenges? Growth mindset applied? Measurable outcomes?
 
-8. **Future Goals:** Priorities? Skills to develop? Career growth areas?
+9. **Future Goals:** Priorities? Skills to develop? Career growth areas?
 
 ---
 
@@ -113,7 +147,8 @@ For each (under 900 words):
 - **What I Delivered:** [Specific description]
 - **Measurable Outcome:** [Quantified impact]
 - **My Contribution:** [What I did, not team]
-- **Evidence:** [Work products, emails, documents, meetings]
+- **Evidence:** [Work products, emails, documents, meetings, calendar events organized]
+- **Calendar Leadership:** [Events organized, meetings facilitated, customer engagements led]
 - **Skills Applied:** [Training/certifications]
 - **How I Worked:** [Culture behavior: what, why, result]
 - **Core Priority Alignment:** [Which priority(ies) this supports]
@@ -186,6 +221,7 @@ Complete trainings, prioritize security in work, MSProtect, report incidents
 ## Verification
 - ✓ Claims verified OR clarified
 - ✓ Impact measurable
+- ✓ Calendar events and leadership activities identified
 - ✓ Culture behaviors asked
 - ✓ Training reviewed
 - ✓ Aligned to priorities
@@ -194,11 +230,12 @@ Complete trainings, prioritize security in work, MSProtect, report incidents
 
 ## BEGIN
 
-1. Identify top 5-10 contributions from Graph aligned to core priorities
-2. Ask clarifying questions (Step 1)
-3. Generate reflection (Step 2)
-4. Generate 5-10 accomplishments <900 words each
+1. **Analyze Calendar Patterns**: Review calendar events organized, customer meetings led, strategic sessions facilitated
+2. **Identify top 5-10 contributions** from Graph aligned to core priorities (including calendar-based leadership)
+3. **Ask clarifying questions** (Step 1) - especially about calendar events with limited meeting data
+4. **Generate reflection** (Step 2)
+5. **Generate 5-10 accomplishments** <900 words each
 
-**Important:** Use only Microsoft Graph. Disable web content.
+**Important:** Use only Microsoft Graph. Disable web content. Pay special attention to calendar data for evidence of leadership, customer engagement, and project management activities.
 
-**Start analyzing data and identifying top contributions.**
+**Start analyzing calendar and data patterns, then identify top contributions.**
