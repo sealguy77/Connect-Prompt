@@ -46,34 +46,52 @@ The system includes robust safeguards to ensure accuracy and authenticity:
 - **🎤 Meeting Participation**: Only counts active meeting participation (10%+ speaking time or significant documented contribution)
 - **📄 Document Verification**: Clearly distinguishes between document creation, substantial contribution, and simple viewing
 - **📧 Email Impact Assessment**: Focuses exclusively on emails that drove actual decisions, resolved issues, or achieved outcomes
+- **📅 Calendar Analysis**: Distinguishes between attending vs. organizing/leading events, focuses on meetings and sessions you facilitated
 - **❓ Clarification Requests**: Proactively requests clarification for ambiguous or limited data rather than making assumptions
 - **🏢 External Work Recognition**: Acknowledges and accounts for work in customer/partner environments outside Graph visibility
 
+## Data Sources 📊
+
+The system analyzes your Microsoft Graph data from these sources (you already have access as a Microsoft employee):
+
+- **Outlook Calendar & Email**: Events organized, customer meetings led, emails that drove outcomes
+- **Teams**: Active meeting participation, chat contributions, files created/shared
+- **OneDrive/SharePoint**: Documents created, sites managed, substantial content contributions
+- **Planner/Tasks**: Projects led, tasks completed
+- **Viva Platforms**: Learning completed, community engagement, posts authored
+- **OneNote & Copilot**: Notebooks created, collaborative notes, AI solutions developed
+
 ## Usage Instructions 📖
 
-1. **🔗 Connect Data Sources**: Provide Microsoft Graph access for the May 1 - October 31, 2025 evaluation period
-2. **🤔 Review & Respond**: Carefully review the AI-generated analysis and thoughtfully answer any clarifying questions
-3. **📋 Receive Results**: Get a comprehensive, evidence-based performance reflection tailored to your specific contributions
-4. **🏆 Final Selection**: Choose your top 3-5 accomplishments from the generated list for your final Connect submission
+### Recommended Platform 🚀
+**Best used with M365 Copilot Researcher** for comprehensive Graph data analysis. Note that generating a complete analysis takes approximately 5-10 minutes due to the depth of data review required.
+
+### Steps:
+1. **📁 Load the Prompt**: Copy the `Connect_Prompt.md` content into M365 Copilot Researcher
+2. **⏰ Allow Processing Time**: The initial analysis takes 5-10 minutes as it comprehensively reviews your Graph data
+3. **🤔 Review & Respond**: Carefully review the AI-generated analysis and thoughtfully answer any clarifying questions about work done in external environments
+4. **📋 Receive Results**: Get a comprehensive, evidence-based performance reflection tailored to your specific contributions
+5. **🏆 Final Selection**: Choose your top 3-5 accomplishments from the generated list for your final Connect submission
 
 ## Important Notes ⚠️
 
 - **🗣️ Authentic Voice**: Uses **first-person voice** throughout for genuine, authentic reflection that sounds like you
-- **📊 Evidence-Based**: Requires **specific, measurable examples** backed by concrete evidence and data
+- **📊 Evidence-Based**: Requires **specific, measurable examples** backed by concrete evidence from your Graph data
 - **👤 Individual Focus**: Emphasizes **your individual contributions** rather than generic team achievements  
 - **🎯 Culture Alignment**: Ensures all content perfectly aligns to **Microsoft's culture behaviors and priorities**
 - **📅 Time-Specific**: Specifically designed for the **May 1 - October 31, 2025** evaluation period
+- **⏱️ Processing Time**: Allow 5-10 minutes for comprehensive Graph data analysis when using M365 Copilot Researcher
 
 ## Getting Started 🚀
 
-Ready to create an outstanding performance review? Simply load the `Connect_Prompt.md` file into your preferred AI assistant and ensure Microsoft Graph access is properly enabled. The intelligent system will guide you through the entire analysis and reflection generation process step-by-step, making sure you don't miss any important contributions or achievements.
+Ready to create an outstanding performance review? Simply load the `Connect_Prompt.md` file into **M365 Copilot Researcher** and let it analyze your Microsoft Graph data. The system will automatically access your work data and guide you through the entire analysis and reflection generation process step-by-step.
 
 **Pro Tip**: 💡 Keep track of any work done in customer environments or external systems, as the AI will ask for context on these activities to ensure they're properly included in your evaluation!
 
 ## Benefits 🌟
 
-- **⏰ Time-Saving**: Automatically surfaces accomplishments you might have forgotten
-- **📈 Comprehensive**: Covers all aspects of your work across Microsoft's ecosystem  
+- **⏰ Time-Saving**: Automatically surfaces accomplishments you might have forgotten from your Graph data
+- **📈 Comprehensive**: Covers all aspects of your work across Microsoft's ecosystem
 - **🎯 Strategic**: Aligns everything to priorities that matter most to leadership
 - **✨ Professional**: Generates polished, professional content ready for submission
-- **🔍 Evidence-Based**: Backs every claim with solid, verifiable evidence
+- **🔍 Evidence-Based**: Backs every claim with solid, verifiable evidence from your digital footprint
