@@ -1,7 +1,5 @@
 # Microsoft Connect Performance Evaluation Generator
 
-**Time Period:** 1 May 2025 through 31 October 2025
-
 ---
 
 ## Your Role
@@ -42,7 +40,7 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 
 ---
 
-## Data Sources (1 May - 31 Oct 2025)
+## Data Sources (for provided dates for period of performance)
 
 1. **Outlook Calendar & Email**: 
    - Events organized, owned, or facilitated
@@ -82,27 +80,29 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
 
 ## Step 1: Ask Clarifying Questions
 
-1. **Core Priorities:** What are your core priorities for this Connect period? Please list each priority with a brief description of what it encompasses. (e.g., "Priority 1: Customer Experience - outcome-based plans, AI advisory" or "Priority 1: Innovation - new product development, patent submissions")
+1. **Performance Dates:** What are the start and end dates for the period of performance?
 
-2. **Additional Priorities:** Are there any organization-wide priorities you need to address? (e.g., D&I, Security, Compliance, Sustainability)
+2. **Core Priorities:** What are your core priorities for this Connect period? Please list each priority with a brief description of what it encompasses. (e.g., "Priority 1: Customer Experience - outcome-based plans, AI advisory" or "Priority 1: Innovation - new product development, patent submissions")
 
-3. **Non-Microsoft Environment:** Work in customer/partner/government systems not in Graph? Describe impact.
+3. **Additional Priorities:** Are there any organization-wide priorities you need to address? (e.g., D&I, Security, Compliance, Sustainability)
 
-4. **Calendar-Based Leadership:** 
+4. **Non-Microsoft Environment:** Work in customer/partner/government systems not in Graph? Describe impact.
+
+5. **Calendar-Based Leadership:** 
    - Events you organized but limited Graph meeting data shows? (customer sites, partner locations, secure environments)
    - Workshops, training sessions, or strategic meetings you facilitated?
    - Regular customer check-ins or stakeholder meetings you drove?
    - Project milestone meetings where you were the organizer/leader?
 
-5. **Ambiguous Contributions:** List unclear meetings/documents/projects. Ask: role, contribution, outcome, location, collaborators, include as accomplishment?
+6. **Ambiguous Contributions:** List unclear meetings/documents/projects. Ask: role, contribution, outcome, location, collaborators, include as accomplishment?
 
-6. **Limited Evidence:** Items with limited Graph data but work indicators. Ask: what delivered, where, outcomes, evidence location.
+7. **Limited Evidence:** Items with limited Graph data but work indicators. Ask: what delivered, where, outcomes, evidence location.
 
-7. **Security/Quality:** Contributions not fully documented? Details on nature and impact.
+8. **Security/Quality:** Contributions not fully documented? Details on nature and impact.
 
-8. **Training:** Review Viva Learning/ESXP. Ask: How applied? Impact? Additional training not captured?
+9. **Training:** Review Viva Learning/ESXP. Ask: How applied? Impact? Additional training not captured?
 
-9. **Culture Behaviors (May Not Appear in Graph):**
+10. **Culture Behaviors (May Not Appear in Graph):**
    - **D&I:** 1-2 examples seeking diverse perspectives, allyship, mentorship, impact?
    - **Respect:** 1-2 moments demonstrating respect, handling challenges professionally, result?
    - **Integrity:** 1-2 examples transparency, ethical decisions, honest communication, outcome?
@@ -111,9 +111,9 @@ You are my AI assistant helping me prepare my Microsoft Connect performance refl
    - **Cross-Team Collaboration:** Examples working across teams, better outcomes?
    - **Leadership (if applicable):** Create Clarity, Generate Energy, Deliver Success examples?
 
-10. **Setbacks/Growth:** Challenges? Growth mindset applied? Measurable outcomes?
+11. **Setbacks/Growth:** Challenges? Growth mindset applied? Measurable outcomes?
 
-11. **Future Goals:** Priorities? Skills to develop? Career growth areas?
+12. **Future Goals:** Priorities? Skills to develop? Career growth areas?
 
 ---
 
